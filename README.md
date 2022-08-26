@@ -10,6 +10,9 @@ wemeet://page/inmeeting?meeting_code=$CODE
 wxwork://message/?username=xxx
 
 
+## 微信
+weixin://scanqrcode
+
 ## Surge
 仅 Surge iOS
 ```
