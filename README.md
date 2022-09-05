@@ -9,6 +9,9 @@ wemeet://page/inmeeting?meeting_code=$CODE
 ## 企业微信
 wxwork://message/?username=xxx
 
+### 小黑板
+wework://board/channel?k=xxx
+
 
 ## 微信
 weixin://scanqrcode
