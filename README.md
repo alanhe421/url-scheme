@@ -40,7 +40,7 @@ RuubyPay://
 yitongxing://
 ```
 
-## AppleStore
+## Apple App Store
 
 ```
 itms-appss://apps.apple.com/cn/app/少数派/id1191720421
