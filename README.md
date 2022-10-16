@@ -32,3 +32,10 @@ autoclose=true
 操作完成时自动关闭 Surge。（不能与 install-config 一同使用）
 样例：surge:///toggle?autoclose=true
 ```
+
+## 易通行
+
+```
+RuubyPay://
+yitongxing://
+```
