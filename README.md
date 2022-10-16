@@ -39,3 +39,9 @@ autoclose=true
 RuubyPay://
 yitongxing://
 ```
+
+## AppleStore
+
+```
+itms-appss://apps.apple.com/cn/app/少数派/id1191720421
+```
