@@ -45,3 +45,9 @@ yitongxing://
 ```
 itms-appss://apps.apple.com/cn/app/少数派/id1191720421
 ```
+
+## 欧路词典
+
+```
+eudic://dict//nokia
+```
