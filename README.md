@@ -51,3 +51,8 @@ itms-appss://apps.apple.com/cn/app/少数派/id1191720421
 ```
 eudic://dict//nokia
 ```
+
+## Fig
+```
+fig://login
+```
