@@ -55,4 +55,5 @@ eudic://dict//nokia
 ## Fig
 ```
 fig://login
+fig://dashboard//autocomplete
 ```
