@@ -57,3 +57,9 @@ eudic://dict//nokia
 fig://login
 fig://dashboard//autocomplete
 ```
+
+## Microsoft Remote Desktop
+```
+# https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-uri
+rdp://full%20address=s:<ip>:<port>&username=s:Administrator
+```
