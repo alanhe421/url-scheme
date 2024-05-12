@@ -63,3 +63,16 @@ fig://dashboard//autocomplete
 # https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-uri
 rdp://full%20address=s:<ip>:<port>&username=s:Administrator
 ```
+
+
+## Alfred
+
+```
+# 剪贴板
+alfredpreferences://navigateto/clipboard
+
+# workflow
+alfredpreferences://navigateto/workflows
+```
+
+
