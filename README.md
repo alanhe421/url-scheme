@@ -75,4 +75,18 @@ alfredpreferences://navigateto/clipboard
 alfredpreferences://navigateto/workflows
 ```
 
+## Visual Studio Code (VSC类均按照此规范)
+
+```
+# vsc
+vscode://file/<full/path/to/file>
+
+# codebuddycn
+codebuddycn://file/<full/path/to/file>
+
+# cursor
+cursor://file/<full/path/to/file>
+```
+
+
 
